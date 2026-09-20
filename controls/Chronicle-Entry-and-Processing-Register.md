@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 005
+Next Available Entry ID: ENTRY 006
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@ Next Available Entry ID: ENTRY 005
 | ENTRY 002 | See approved entry | Preserved in ARCHIVE — Minerva Project Registry Discussion | Approved | Legacy entry created before the handoff inbox |
 | ENTRY 003 | 2026-08-10 | Deciding What Neptune Is Allowed to Become | Approved | Legacy entry created before the handoff inbox |
 | ENTRY 004 | 2026-08-11 | Organizing the Work and Building Its Memory | Approved | `HANDOFF — 2026-08-11 — Clio — Chronicle Workflow and Handoff Development.md`; `HANDOFF — 2026-08-11 — Metis — ChatGPT Console Cleanup.md`; `HANDOFF — 2026-08-11 — Metis — Chronicle Workflow Test.md` |
+| ENTRY 005 | 2026-08-12 | Hardening the Rules Before Building the Next System | Approved | `HANDOFF - 2026-08-12 - Minerva - Daedalus - Chronicle Handoff Contract Hardening.md`; `HANDOFF - 2026-08-12 - Metis - Instruction Control and 3D Model Planning.md` |
 
 ## Processed Handoffs
 
@@ -21,11 +22,13 @@ Next Available Entry ID: ENTRY 005
 | ENTRY 004 | 2026-08-11 | HANDOFF — 2026-08-11 — Clio — Chronicle Workflow and Handoff Development.md | Clio | 2026-08-12 | Approved |
 | ENTRY 004 | 2026-08-11 | HANDOFF — 2026-08-11 — Metis — ChatGPT Console Cleanup.md | Metis | 2026-08-12 | Approved |
 | ENTRY 004 | 2026-08-11 | HANDOFF — 2026-08-11 — Metis — Chronicle Workflow Test.md | Metis | 2026-08-12 | Approved |
+| ENTRY 005 | 2026-08-12 | HANDOFF - 2026-08-12 - Minerva - Daedalus - Chronicle Handoff Contract Hardening.md | Minerva | 2026-09-20 | Approved |
+| ENTRY 005 | 2026-08-12 | HANDOFF - 2026-08-12 - Metis - Instruction Control and 3D Model Planning.md | Metis | 2026-09-20 | Approved |
 
 ## Control Rules
 
-- ENTRY 000–004 are permanent approved records.
-- ENTRY 005 is the next available ID.
+- ENTRY 000–005 are permanent approved records.
+- ENTRY 006 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
