@@ -1,6 +1,6 @@
 # Chronicle Entry and Processing Register
 
-This public register is the authoritative control record for Chronicle entry continuity and processed handoffs in `dngrmonkey7726/Clio-Dev-Diary`.
+This public register is the authoritative control record for Chronicle entry continuity and processed handoffs in `dngrmonkey/Clio-Dev-Diary`.
 
 ## Entry Continuity
 
