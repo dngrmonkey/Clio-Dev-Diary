@@ -1,6 +1,6 @@
 # Clio Handoff Inbox Rules
 
-The public GitHub repository `dngrmonkey7726/Clio-Dev-Diary` is the official Clio record bridge. The official inbox is `handoffs/inbox/[Project]/`.
+The public GitHub repository `dngrmonkey/Clio-Dev-Diary` is the official Clio record bridge. The official inbox is `handoffs/inbox/[Project]/`.
 
 Only handoffs cleared for public disclosure may be committed. Never include credentials, secrets, personal data, protected student or employee information, confidential district information, or private operational details.
 
