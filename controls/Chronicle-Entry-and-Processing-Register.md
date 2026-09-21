@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 015
+Next Available Entry ID: ENTRY 016
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -30,6 +30,8 @@ Next Available Entry ID: ENTRY 015
 | ENTRY 013 | 2026-09-14 | Knowing Where Headgear Stops | Approved | `HANDOFF - 2026-09-14 - ARCHIE - Headgear Production and Controlled Checkpoint.md` |
 
 | ENTRY 014 | 2026-09-15 | Moving What We Knew | Approved | `HANDOFF - 2026-09-15 - ARCHIE - Headgear Character Regrouping.md` |
+
+| ENTRY 015 | 2026-09-16 | Moving the Repetition Out of the Conversation | Approved | `HANDOFF - 2026-09-16 - ARCHIE - Manyfold and Local Automation Direction.md` |
 
 ## Processed Handoffs
 
@@ -57,10 +59,12 @@ Next Available Entry ID: ENTRY 015
 
 | ENTRY 014 | 2026-09-15 | HANDOFF - 2026-09-15 - ARCHIE - Headgear Character Regrouping.md | ARCHIE | 2026-09-20 | Approved |
 
+| ENTRY 015 | 2026-09-16 | HANDOFF - 2026-09-16 - ARCHIE - Manyfold and Local Automation Direction.md | ARCHIE | 2026-09-20 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 015 is the next available ID.
+- ENTRY 016 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
