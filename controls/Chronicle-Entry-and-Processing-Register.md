@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 011
+Next Available Entry ID: ENTRY 012
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -22,6 +22,8 @@ Next Available Entry ID: ENTRY 011
 | ENTRY 009 | 2026-09-07 | Collecting Without Printing Everything | Approved | `HANDOFF - 2026-09-07 - ARCHIE - Daedalus - Workspace Recovery and Helmet Duplication Strategy.md` |
 
 | ENTRY 010 | 2026-09-08 | Teaching the Helmet Registry to Say No | Approved | `HANDOFF - 2026-09-08 - ARCHIE - Daedalus - Iron Man Helmet Registry and Acquisition Policy.md` |
+
+| ENTRY 011 | 2026-09-11 | The Library Stops Being a Pile of Files | Approved | `HANDOFF - 2026-09-11 - ARCHIE - Actus 3D Library Organization Begins.md` |
 
 ## Processed Handoffs
 
@@ -41,10 +43,12 @@ Next Available Entry ID: ENTRY 011
 
 | ENTRY 010 | 2026-09-08 | HANDOFF - 2026-09-08 - ARCHIE - Daedalus - Iron Man Helmet Registry and Acquisition Policy.md | ARCHIE | 2026-09-20 | Approved |
 
+| ENTRY 011 | 2026-09-11 | HANDOFF - 2026-09-11 - ARCHIE - Actus 3D Library Organization Begins.md | ARCHIE | 2026-09-20 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 011 is the next available ID.
+- ENTRY 012 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
