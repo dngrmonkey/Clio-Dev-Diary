@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 009
+Next Available Entry ID: ENTRY 010
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -18,6 +18,8 @@ Next Available Entry ID: ENTRY 009
 | ENTRY 007 | 2026-09-04 | Giving ARCHIE a Place to Work | Approved | `HANDOFF - 2026-09-04 - ARCHIE - Daedalus - ARCHIE Operational Launch and Garage Baseline.md` |
 
 | ENTRY 008 | 2026-09-05 | A Lab Inside ARCHIE | Approved | `HANDOFF - 2026-09-05 - ARCHIE - Daedalus - LAB Fabrication Workstream Established.md` |
+
+| ENTRY 009 | 2026-09-07 | Collecting Without Printing Everything | Approved | `HANDOFF - 2026-09-07 - ARCHIE - Daedalus - Workspace Recovery and Helmet Duplication Strategy.md` |
 
 ## Processed Handoffs
 
@@ -33,10 +35,12 @@ Next Available Entry ID: ENTRY 009
 
 | ENTRY 008 | 2026-09-05 | HANDOFF - 2026-09-05 - ARCHIE - Daedalus - LAB Fabrication Workstream Established.md | ARCHIE | 2026-09-20 | Approved |
 
+| ENTRY 009 | 2026-09-07 | HANDOFF - 2026-09-07 - ARCHIE - Daedalus - Workspace Recovery and Helmet Duplication Strategy.md | ARCHIE | 2026-09-20 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 009 is the next available ID.
+- ENTRY 010 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
