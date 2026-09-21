@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 008
+Next Available Entry ID: ENTRY 009
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -16,6 +16,8 @@ Next Available Entry ID: ENTRY 008
 | ENTRY 005 | 2026-08-12 | Hardening the Rules Before Building the Next System | Approved | `HANDOFF - 2026-08-12 - Minerva - Daedalus - Chronicle Handoff Contract Hardening.md`; `HANDOFF - 2026-08-12 - Metis - Instruction Control and 3D Model Planning.md` |
 | ENTRY 006 | 2026-08-18 | Finding a Home for the Work | Approved | `HANDOFF - 2026-08-18 - Metis - ChatGPT Workspace and Portfolio Governance.md` |
 | ENTRY 007 | 2026-09-04 | Giving ARCHIE a Place to Work | Approved | `HANDOFF - 2026-09-04 - ARCHIE - Daedalus - ARCHIE Operational Launch and Garage Baseline.md` |
+
+| ENTRY 008 | 2026-09-05 | A Lab Inside ARCHIE | Approved | `HANDOFF - 2026-09-05 - ARCHIE - Daedalus - LAB Fabrication Workstream Established.md` |
 
 ## Processed Handoffs
 
@@ -29,10 +31,12 @@ Next Available Entry ID: ENTRY 008
 | ENTRY 006 | 2026-08-18 | HANDOFF - 2026-08-18 - Metis - ChatGPT Workspace and Portfolio Governance.md | Metis | 2026-09-20 | Approved |
 | ENTRY 007 | 2026-09-04 | HANDOFF - 2026-09-04 - ARCHIE - Daedalus - ARCHIE Operational Launch and Garage Baseline.md | ARCHIE | 2026-09-20 | Approved |
 
+| ENTRY 008 | 2026-09-05 | HANDOFF - 2026-09-05 - ARCHIE - Daedalus - LAB Fabrication Workstream Established.md | ARCHIE | 2026-09-20 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 008 is the next available ID.
+- ENTRY 009 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
