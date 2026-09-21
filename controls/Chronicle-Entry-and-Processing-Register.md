@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 007
+Next Available Entry ID: ENTRY 008
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@ Next Available Entry ID: ENTRY 007
 | ENTRY 004 | 2026-08-11 | Organizing the Work and Building Its Memory | Approved | `HANDOFF — 2026-08-11 — Clio — Chronicle Workflow and Handoff Development.md`; `HANDOFF — 2026-08-11 — Metis — ChatGPT Console Cleanup.md`; `HANDOFF — 2026-08-11 — Metis — Chronicle Workflow Test.md` |
 | ENTRY 005 | 2026-08-12 | Hardening the Rules Before Building the Next System | Approved | `HANDOFF - 2026-08-12 - Minerva - Daedalus - Chronicle Handoff Contract Hardening.md`; `HANDOFF - 2026-08-12 - Metis - Instruction Control and 3D Model Planning.md` |
 | ENTRY 006 | 2026-08-18 | Finding a Home for the Work | Approved | `HANDOFF - 2026-08-18 - Metis - ChatGPT Workspace and Portfolio Governance.md` |
+| ENTRY 007 | 2026-09-04 | Giving ARCHIE a Place to Work | Approved | `HANDOFF - 2026-09-04 - ARCHIE - Daedalus - ARCHIE Operational Launch and Garage Baseline.md` |
 
 ## Processed Handoffs
 
@@ -26,11 +27,12 @@ Next Available Entry ID: ENTRY 007
 | ENTRY 005 | 2026-08-12 | HANDOFF - 2026-08-12 - Minerva - Daedalus - Chronicle Handoff Contract Hardening.md | Minerva | 2026-09-20 | Approved |
 | ENTRY 005 | 2026-08-12 | HANDOFF - 2026-08-12 - Metis - Instruction Control and 3D Model Planning.md | Metis | 2026-09-20 | Approved |
 | ENTRY 006 | 2026-08-18 | HANDOFF - 2026-08-18 - Metis - ChatGPT Workspace and Portfolio Governance.md | Metis | 2026-09-20 | Approved |
+| ENTRY 007 | 2026-09-04 | HANDOFF - 2026-09-04 - ARCHIE - Daedalus - ARCHIE Operational Launch and Garage Baseline.md | ARCHIE | 2026-09-20 | Approved |
 
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 006 is the next available ID.
+- ENTRY 008 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
