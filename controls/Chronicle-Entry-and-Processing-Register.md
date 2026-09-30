@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 016
+Next Available Entry ID: ENTRY 017
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -32,6 +32,8 @@ Next Available Entry ID: ENTRY 016
 | ENTRY 014 | 2026-09-15 | Moving What We Knew | Approved | `HANDOFF - 2026-09-15 - ARCHIE - Headgear Character Regrouping.md` |
 
 | ENTRY 015 | 2026-09-16 | Moving the Repetition Out of the Conversation | Approved | `HANDOFF - 2026-09-16 - ARCHIE - Manyfold and Local Automation Direction.md` |
+
+| ENTRY 016 | 2026-09-17 | ATLAS Gets a Name, and Then Immediately Starts Attracting Satellites | Approved | `HANDOFF - 2026-09-17 - Metis - ATLAS and Work Automation Ecosystem.md` |
 
 ## Processed Handoffs
 
@@ -61,10 +63,12 @@ Next Available Entry ID: ENTRY 016
 
 | ENTRY 015 | 2026-09-16 | HANDOFF - 2026-09-16 - ARCHIE - Manyfold and Local Automation Direction.md | ARCHIE | 2026-09-20 | Approved |
 
+| ENTRY 016 | 2026-09-17 | HANDOFF - 2026-09-17 - Metis - ATLAS and Work Automation Ecosystem.md | Metis | 2026-09-29 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 016 is the next available ID.
+- ENTRY 017 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
