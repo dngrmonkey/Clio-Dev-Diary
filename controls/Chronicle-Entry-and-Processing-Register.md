@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 017
+Next Available Entry ID: ENTRY 018
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -34,6 +34,8 @@ Next Available Entry ID: ENTRY 017
 | ENTRY 015 | 2026-09-16 | Moving the Repetition Out of the Conversation | Approved | `HANDOFF - 2026-09-16 - ARCHIE - Manyfold and Local Automation Direction.md` |
 
 | ENTRY 016 | 2026-09-17 | ATLAS Gets a Name, and Then Immediately Starts Attracting Satellites | Approved | `HANDOFF - 2026-09-17 - Metis - ATLAS and Work Automation Ecosystem.md` |
+
+| ENTRY 017 | 2026-09-18 | Giving the Library a Catalog and the Repetition a Machine | Approved | `HANDOFF - 2026-09-18 - ARCHIE - 3D Asset-Management Architecture Formalized.md`; `HANDOFF - 2026-09-18 - HEPHAESTUS - Daedalus - HEPHAESTUS Formation and TALOS Architecture.md` |
 
 ## Processed Handoffs
 
@@ -65,10 +67,13 @@ Next Available Entry ID: ENTRY 017
 
 | ENTRY 016 | 2026-09-17 | HANDOFF - 2026-09-17 - Metis - ATLAS and Work Automation Ecosystem.md | Metis | 2026-09-29 | Approved |
 
+| ENTRY 017 | 2026-09-18 | HANDOFF - 2026-09-18 - ARCHIE - 3D Asset-Management Architecture Formalized.md | ARCHIE | 2026-09-29 | Approved |
+| ENTRY 017 | 2026-09-18 | HANDOFF - 2026-09-18 - HEPHAESTUS - Daedalus - HEPHAESTUS Formation and TALOS Architecture.md | HEPHAESTUS | 2026-09-29 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 017 is the next available ID.
+- ENTRY 018 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
