@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 020
+Next Available Entry ID: ENTRY 021
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -40,6 +40,8 @@ Next Available Entry ID: ENTRY 020
 | ENTRY 018 | 2026-09-23 | VERONICA Gets a Job, Then Immediately Gets 297 Things to Look At | Approved | `HANDOFF - 2026-09-23 - ARCHIE - VERONICA Batch 001 Reconciliation and Acquisition Readiness.md`; `HANDOFF - 2026-09-23 - 3D Repository - Daedalus - VERONICA Operating Architecture.md`; `HANDOFF - 2026-09-23 - VERONICA - Sean Headgear Batch 001 Analysis Completed.md` |
 
 | ENTRY 019 | 2026-09-29 | We Stop Asking Permission to Download Things We Can Safely Undo | Approved | `HANDOFF - 2026-09-29 - ARCHIE - VERONICA V2 V2.1 Hands-Off Acquisition Workflow Redesign.md` |
+
+| ENTRY 020 | 2026-09-30 | Manyfold Owns Its Metadata, but First We Make It Prove It | Approved | `HANDOFF - 2026-09-30 - ARCHIE - Manyfold Metadata Validation Matrix Accepted for Execution.md`; `HANDOFF - 2026-09-30 - 3D Repository - Daedalus - Manyfold Metadata Ownership and Syncthing Validation Architecture.md` |
 
 ## Processed Handoffs
 
@@ -80,10 +82,13 @@ Next Available Entry ID: ENTRY 020
 
 | ENTRY 019 | 2026-09-29 | HANDOFF - 2026-09-29 - ARCHIE - VERONICA V2 V2.1 Hands-Off Acquisition Workflow Redesign.md | ARCHIE | 2026-09-29 | Approved |
 
+| ENTRY 020 | 2026-09-30 | HANDOFF - 2026-09-30 - ARCHIE - Manyfold Metadata Validation Matrix Accepted for Execution.md | 3D Model Repository Workflow | 2026-09-30 | Approved |
+| ENTRY 020 | 2026-09-30 | HANDOFF - 2026-09-30 - 3D Repository - Daedalus - Manyfold Metadata Ownership and Syncthing Validation Architecture.md | 3D Model Repository Workflow | 2026-09-30 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 020 is the next available ID.
+- ENTRY 021 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
