@@ -4,7 +4,7 @@ This public register is the authoritative control record for Chronicle entry con
 
 ## Entry Continuity
 
-Next Available Entry ID: ENTRY 021
+Next Available Entry ID: ENTRY 022
 
 | Entry ID | Work Date | Title | Status | Source Handoffs |
 |---|---|---|---|---|
@@ -42,6 +42,8 @@ Next Available Entry ID: ENTRY 021
 | ENTRY 019 | 2026-09-29 | We Stop Asking Permission to Download Things We Can Safely Undo | Approved | `HANDOFF - 2026-09-29 - ARCHIE - VERONICA V2 V2.1 Hands-Off Acquisition Workflow Redesign.md` |
 
 | ENTRY 020 | 2026-09-30 | Manyfold Owns Its Metadata, but First We Make It Prove It | Approved | `HANDOFF - 2026-09-30 - ARCHIE - Manyfold Metadata Validation Matrix Accepted for Execution.md`; `HANDOFF - 2026-09-30 - 3D Repository - Daedalus - Manyfold Metadata Ownership and Syncthing Validation Architecture.md` |
+
+| ENTRY 021 | 2026-10-01 | We Finally Download Some Files, and One of Them Immediately Proves the Point | Approved | `HANDOFF - 2026-10-01 - VERONICA - Batch 001 Evidence Recovery and Repository Reconciliation.md`; `HANDOFF - 2026-10-01 - ARCHIE - Actus Source Staging and Manyfold Validation.md`; `HANDOFF - 2026-10-01 - Daedalus - Manyfold Metadata Observation Diagnosis.md` |
 
 ## Processed Handoffs
 
@@ -85,10 +87,14 @@ Next Available Entry ID: ENTRY 021
 | ENTRY 020 | 2026-09-30 | HANDOFF - 2026-09-30 - ARCHIE - Manyfold Metadata Validation Matrix Accepted for Execution.md | 3D Model Repository Workflow | 2026-09-30 | Approved |
 | ENTRY 020 | 2026-09-30 | HANDOFF - 2026-09-30 - 3D Repository - Daedalus - Manyfold Metadata Ownership and Syncthing Validation Architecture.md | 3D Model Repository Workflow | 2026-09-30 | Approved |
 
+| ENTRY 021 | 2026-10-01 | HANDOFF - 2026-10-01 - VERONICA - Batch 001 Evidence Recovery and Repository Reconciliation.md | VERONICA | 2026-10-01 | Approved |
+| ENTRY 021 | 2026-10-01 | HANDOFF - 2026-10-01 - ARCHIE - Actus Source Staging and Manyfold Validation.md | 3D Model Repository Workflow | 2026-10-01 | Approved |
+| ENTRY 021 | 2026-10-01 | HANDOFF - 2026-10-01 - Daedalus - Manyfold Metadata Observation Diagnosis.md | Daedalus | 2026-10-01 | Approved |
+
 ## Control Rules
 
 - ENTRY 000–005 are permanent approved records.
-- ENTRY 021 is the next available ID.
+- ENTRY 022 is the next available ID.
 - Drafts do not consume an Entry ID until approved.
 - Each approved entry must be added to the Entry Continuity table.
 - Each source handoff must be added to the Processed Handoffs table after approval.
